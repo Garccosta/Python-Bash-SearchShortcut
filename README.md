@@ -65,7 +65,7 @@ In "Environment Variables..." add it to the Path registry under User or System V
 
 ### Done! 
 
-Now you can quickly search the web by using one of the scripts on the folder and customize it however you want!
+Now you can quickly search the web by using one of the scripts on the folder and customize it anyway you want!
 
 You can change the scripts names and create new ones for your search specific needs! ;)
 
