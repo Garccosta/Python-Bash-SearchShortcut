@@ -12,7 +12,7 @@ You type in the Terminal the bat file name along with the arguments to be search
 Example:
 
 ```
-mapit.bat New York
+mapit New York
 ```
 
 This will run the "mapit" bat script, which in turn will run the python script with the same name. 
