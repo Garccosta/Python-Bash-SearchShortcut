@@ -45,7 +45,7 @@ You can download it in its official website: https://www.python.org/downloads/
 
 ### 3. Download the third party python package: pyperclip.
 
-If you open the cloned with an IDE with the proper Python Extension installed,
+If you open the cloned project with an IDE with the proper Python Extension installed,
 it will probably automatically find the missing package and prompt you to download it. 
 
 
