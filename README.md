@@ -1,13 +1,13 @@
 ﻿# Python Bash Search Shortcut
 
 This project uses some python and bash scripts to quickly search
-the web using shortcuts in the Terminal(Shell/prompt).
+the web using shortcuts in the Terminal(Shell/prompt). 
 
 It was inspired by "Automating the Boring Stuff with Python Programming" book/course.
 
 ## How it works
 
-You type in the Terminal the bat file name along with the arguments to be searched with blank spaces separating them. 
+You type in the Terminal or on Windows Run command dialog box(shortcut: "Windows key + R") the bat file name along with the arguments to be searched with blank spaces separating them. 
 
 Example:
 
